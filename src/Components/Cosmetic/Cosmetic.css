@@ -1,0 +1,15 @@
+.product {
+  border: 2px solid red;
+  border-radius: 7px;
+  margin: 10px;
+  padding: 10px;
+}
+.cursor {
+  background-color: rgb(105, 201, 60);
+  color: rgb(234, 234, 236);
+  margin: 3px;
+  padding: 5px;
+  border: 2px solid red;
+  border-radius: 5px;
+  cursor: pointer;
+}
